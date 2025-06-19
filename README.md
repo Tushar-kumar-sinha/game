@@ -1,3 +1,4 @@
 # game
-this is my first github 
-Authhor tushar kumar sinha
+this is my first github.
+<br>
+Authhor - Tushar kumar sinha
